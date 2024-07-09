@@ -1,1 +1,1 @@
-FROM quay.io/coreos/etcd:v3.5.5
+FROM minio/minio:RELEASE.2023-03-20T20-16-18Z
